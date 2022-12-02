@@ -2,7 +2,6 @@
 - 👀 I’m interested in Mathematics, Programming, Finance
 - 🌱 I’m currently learning ...everything
 - 💞️ I’m looking to collaborate on ...anything
-- 📫 How to reach me ...comment
 
 <!---
 kderkba/kderkba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
